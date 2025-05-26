@@ -16,7 +16,7 @@ DILKUSH is a full-stack food delivery web application built using the MERN stack
 
 ---
 
-##  Tech Stack
+###  Tech Stack
 
 ### Frontend
 - React.js
